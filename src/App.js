@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola te hacke el repo
+          Hola te hacke el repo y te voy a robar todo!
         </p>
         <a
           className="App-link"
